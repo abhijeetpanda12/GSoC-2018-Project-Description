@@ -2,6 +2,10 @@
 
 ## Project Name : ```Automatic Forecasting```
 
+## Organisation : [`Python Software Foundation`](https://www.python.org/psf/) [`GSoC Organisation Link`](https://summerofcode.withgoogle.com/organizations/4812284052897792/)
+
+## Sub-Org : [`Statsmodels`](http://www.statsmodels.org/stable/index.html)
+
 ## Project Abstract : 
 The aim of the project is to implement an automatic forecasting infrastructure for Statsmodels similar to `auto.arima()`/`ets()` of the `forecast` package in `R`. The goals will be to use the existing models of Statsmodels like SARIMAX and ES to build a forecasting method that would automatically detect the best model and forecast values based on that model. 
 
@@ -9,7 +13,7 @@ The aim of the project is to implement an automatic forecasting infrastructure f
 
 ## GSoC Project link : https://summerofcode.withgoogle.com/projects/#5366810581401600
 
-## Project Development link : https://github.com/statsmodels/statsmodels/pull/4621
+## Project Development link (Single Pull Request): https://github.com/statsmodels/statsmodels/pull/4621
 
 ## Project Blog : https://blogs.python-gsoc.org/abhijeet-panda/
 
