@@ -14,7 +14,7 @@ The aim of the project is to implement an automatic forecasting infrastructure f
 ## GSoC Project link : https://summerofcode.withgoogle.com/projects/#5366810581401600
 
 ##### My project is completely covered by a single Pull Request and all the commits in this Pull request are mine as a part of GSoC.
-## Project Development link (Single Pull Request): https://github.com/statsmodels/statsmodels/pull/4621
+## Project Development link (link to the source code written by me - Single Pull Request): https://github.com/statsmodels/statsmodels/pull/4621
 
 ## Project Blog : https://blogs.python-gsoc.org/abhijeet-panda/
 
