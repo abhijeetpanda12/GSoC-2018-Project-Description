@@ -11,12 +11,13 @@ The aim of the project is to implement an automatic forecasting infrastructure f
 
 `Automatic forecasting` algorithms determine an appropriate time series model, estimate the parameters and compute the forecasts. They are appropriate for various time series patterns, and applicable to large numbers of series without user intervention. The most popular automatic forecasting algorithms are based on either exponential smoothing(ES) or ARIMA models.
 
-## GSoC Project link : https://summerofcode.withgoogle.com/projects/#5366810581401600
+## [`GSoC Project link`](https://summerofcode.withgoogle.com/projects/#5366810581401600)
 
 ##### My project is completely covered by a single Pull Request and all the commits in this Pull request are mine as a part of GSoC.
-## Project Development link (link to the source code written by me - Single Pull Request): https://github.com/statsmodels/statsmodels/pull/4621
+## Project Development link 
+## [`link to the source code written by me - Single Pull Request`](https://github.com/statsmodels/statsmodels/pull/4621)
 
-## Project Blog : https://blogs.python-gsoc.org/abhijeet-panda/
+## [`Project Blog`](https://blogs.python-gsoc.org/abhijeet-panda/)
 
 ## Project Milestones :
 1. Automatic model Selection for SARIMAX models.
