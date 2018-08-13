@@ -33,4 +33,5 @@ The project is in a early stage now and more rigorous testing is coming its way 
 1. More rigorous testing by a variety of users and variety of real-time data.
 2. Adding a few more functionalitites by taking feeback from the  user community.
 
-All the code written by me from 14th May 2018 to 13th August 2018 for the GSoC 2018 program is also present [here] (../blob/master/automatic.zip)
+All the code written by me from 14th May 2018 to 13th August 2018 for the GSoC 2018 program is also present 
+[here](automatic.zip)
